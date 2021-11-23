@@ -1,9 +1,20 @@
 <!DOCTYPE html>
 <html>
     <head>
+        <style>
+            li {
+                color:rgb(77, 109, 29);
+                font-size: 20px;
+                
+                }
+        </style>
         <title></title>
         <meta charset="utf-8">
-        <h1><img src="../img/cookie.jpg"></h1>
+        <h1><img 
+            height="auto";
+            width="400px";
+         src="../img/cookie.jpg"></h1>
+         <link rel="stylesheet" href="/home/will/Desktop/the_odin_project/odin-recipes/css/styles.css">
     <body>
    <h2>Mom's Cookies</h2><br>
    <h4>This is one of my mom's favorite cookies that she made quite often. Mom had lots of family and friends over and they always had these cookies on hand with tea.</h4>

@@ -1,0 +1,31 @@
+/* styles.css */
+
+div {
+    color: white;
+    background-color: black;
+  }
+  
+  p,a {
+    color: rgb(20, 59, 54);
+  }
+*{
+    background-color: powderblue;
+}
+ div {
+    text-size-adjust: 32px;
+    background-color: red;
+    text-align: center;
+    
+}
+.li{
+    color: rgb(50, 19, 78)
+}
+p {
+    background-color: green;
+    color: white;
+    font-size: 18px;
+}
+button {
+    background-color: orange;
+    font-size: 18px;
+}
